@@ -137,15 +137,6 @@ Other        ██░░░░░░░░░░░░░    4%
 
 ---
 
-# 🎧 Spotify (Optional)
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
