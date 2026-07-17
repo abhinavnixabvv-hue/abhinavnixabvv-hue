@@ -1,188 +1,161 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **YOUR_NAME**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hey, I'm **ABHINAV N**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Things+That+Matter;Always+Learning+🚀" alt="Typing SVG"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=0891b2" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=FFD700" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers&color=181717"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-```javascript
-const developer = {
-    name: "YOUR_NAME",
-    location: "🌍 Earth",
-    code: ["JavaScript", "TypeScript", "Python", "C++"],
-    askMeAbout: [
-        "Web Development",
-        "Artificial Intelligence",
-        "Open Source",
-        "Backend Systems"
-    ],
-    currentlyLearning: ["Machine Learning", "Cloud", "System Design"],
-    hobbies: ["💻 Coding", "🎮 Gaming", "☕ Coffee", "🎵 Music"],
-    motto: "Build. Learn. Repeat."
-}
+```ts
+const me = {
+  name: "YOUR NAME",
+  role: "Full Stack Developer",
+  location: "🌍 Earth",
+  languages: ["JavaScript", "TypeScript", "Python", "C++"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "FastAPI"],
+  database: ["PostgreSQL", "MongoDB", "Redis"],
+  cloud: ["Docker", "AWS", "Vercel"],
+  currentlyLearning: ["AI", "LLMs", "System Design"],
+  funFact: "I turn coffee into code ☕"
+};
 ```
 
 ---
 
-# 🚀 Tech Stack
+## ⚡ Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,c" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,nodejs,express,tailwind,mongodb,postgres,redis,docker,aws,git,github,linux,vscode,figma&perline=9" />
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,firebase" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma,postman" />
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+<img width="700" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Coding Activity
+## 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## 📅 Coding Activity
 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   ███████████░░░░░   45%
-Python       ████████░░░░░░░   28%
-TypeScript   ██████░░░░░░░░░   16%
-HTML/CSS     ███░░░░░░░░░░░░    7%
-Other        ██░░░░░░░░░░░░░    4%
+JavaScript    ████████████████░░░░   42%
+TypeScript    ████████████░░░░░░░░   28%
+Python        ████████░░░░░░░░░░░░   18%
+HTML/CSS      ████░░░░░░░░░░░░░░░░    8%
+Other         ██░░░░░░░░░░░░░░░░░░    4%
 ```
 
 <!--END_SECTION:waka-->
 
 ---
 
-# 🎧 Spotify (Optional)
+## 🎵 Currently Listening (Optional)
 
-<p align="center">
+<div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🌎 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+<img src="https://skillicons.dev/icons?i=twitter" height="55"/>
 </a>
 
 <a href="https://YOUR_PORTFOLIO.com">
-<img src="https://skillicons.dev/icons?i=vercel" height="50"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
 </a>
 
-</p>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+</div>
+
+---
+
+## 💭 Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💭 Random Dev Quote
+### ⭐ Thanks for visiting!
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### ⚡ Fun Fact
-
-> **"The best way to predict the future is to build it."**
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+*"Code with purpose. Learn without limits. Build for impact."* 🚀
 
 </div>
