@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **YOUR_NAME**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **ABHINAV N**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
 
@@ -173,16 +173,3 @@ Other        ██░░░░░░░░░░░░░    4%
 
 <div align="center">
 
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### ⚡ Fun Fact
-
-> **"The best way to predict the future is to build it."**
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-
-</div>
