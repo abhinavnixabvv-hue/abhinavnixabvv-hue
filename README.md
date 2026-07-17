@@ -11,7 +11,7 @@ I'm passionate about building scalable applications, exploring new technologies,
 - 🌱 Currently learning **AI, Cloud Computing, and System Design**
 - 💼 Interested in **Full-Stack Development**
 - 🤝 Open to collaborating on **Open Source Projects**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **abhinavnixabvv@gmail.com**
 - ⚡ Fun fact: I love solving coding challenges and learning something new every day.
 
 ---
